@@ -9,3 +9,4 @@ Include:
 - Commands
 - Tutorial
 - Video
+- Projects
